@@ -220,6 +220,7 @@ console.log("Task 1 B:", bioThirdArtist);
 There is a typo in your dataset 😱 The 9th artist, Vincent Van Gogh is currently Vincent Van Dough. Fix this issue and console.log() to check your work. */
 artists[8].name = "Vincent Van Gogh"
 console.log("Task 2:", artists[8].name);
+// comment
 
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 3: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀  
